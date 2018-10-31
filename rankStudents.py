@@ -67,3 +67,7 @@ rewardStudents(sortedStudentRecord, reward)
 appreciateStudents(sortedStudentRecord)
 randomstudent=lottery(sortedStudentRecord)
 
+#This Is For Google Code In 2018 Task By Open Wisp
+#This Is Made By Om Dwivedi
+#All the changes asked to made to the program in the task have been done...
+#Love Google Code In And OpenWisp
